@@ -1,3 +1,5 @@
+# UNMAINTAINED | NOT SUPPORTED
+
 # memorygame
 NoPixel type Thermite minigame
 
